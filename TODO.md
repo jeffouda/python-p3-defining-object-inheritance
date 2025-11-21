@@ -1,0 +1,3 @@
+- [ ] Implement Vehicle class in vehicle.py: add **init**, go, fill_up_tank methods
+- [ ] Implement Car class in car.py: override go method
+- [ ] Run pytest to verify all tests pass
